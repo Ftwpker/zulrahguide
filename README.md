@@ -1,5 +1,7 @@
 # Zulrah Guide [![Build Status](https://travis-ci.org/Nightfirecat/zulrahguide.svg?branch=master)](https://travis-ci.org/Nightfirecat/zulrahguide)
 
+[Guide Link](https://ftwpker.github.io/zulrahguide/)
+
 I have updated this version to mark phases where Zulrah will not attack you and thus no prayer is needed.
 
 Based on [http://zulrahguide.com](https://web.archive.org/web/20180224034652/http://zulrahguide.com/),
