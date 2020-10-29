@@ -5,7 +5,7 @@ re-created for continued use and future updates.
 
 Credit to JonTarg for the original ZulrahGuide.com website
 
-Credit to nightfirecat for the original Zulrah project this was forked form (https://nightfirecat.github.io/zulrahguide/)
+Credit to nightfirecat for the original Zulrah project this was forked from (https://nightfirecat.github.io/zulrahguide/)
 
 
 ## Building
