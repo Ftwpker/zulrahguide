@@ -4,7 +4,10 @@ Based on [http://zulrahguide.com](https://web.archive.org/web/20180224034652/htt
 re-created for continued use and future updates.
 
 Credit to JonTarg for the original ZulrahGuide.com website
+
 Credit to nightfirecat for the original Zulrah project this was forked form (https://nightfirecat.github.io/zulrahguide/)
+
+
 ## Building
 
 This site is currently built entirely from static files and requires no build process to be ready
